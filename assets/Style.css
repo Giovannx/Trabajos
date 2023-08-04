@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+body  {font-family: 'Roboto', sans-serif;}
+header { background-color: rgb(54, 175, 54);}
+.Formulario {background-color: rgb(54, 175, 54); color: aliceblue;}
+.Formulario h1 {font-style:italic ;}
+footer { text-align: center; type-family: 'Roboto', sans-serif;font-style: italic;}
