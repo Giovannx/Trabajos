@@ -1,0 +1,2 @@
+# Este documento sirve para ignorar documentos y que no se cargune en el repositorio de git
+# Por ejemplo agregamos index.html y nuestro repositorio git ignorara este documento para futuros commit
